@@ -2,7 +2,7 @@
   "kind": "scatman.intake-memory",
   "version": 1,
   "repoFullName": "scatman-ai/playground-1",
-  "updatedAt": "2026-02-21T11:19:17.480Z",
+  "updatedAt": "2026-02-21T11:19:25.826Z",
   "memory": {
     "repoFullName": "scatman-ai/playground-1",
     "lastBranch": "only",
@@ -12,7 +12,7 @@
     "recentEstimateCount": 2,
     "lastRunId": null,
     "lastRunFinishedAt": null,
-    "updatedAt": "2026-02-21T11:19:17.480Z",
+    "updatedAt": "2026-02-21T11:19:25.826Z",
     "sessions": [
       {
         "sessionId": "b60b1fbd-0591-4a1a-92fc-8c7eca1e4b9a",
@@ -29,13 +29,13 @@
         "estimateMinUsd": 43.2,
         "estimateMaxUsd": 172.8,
         "estimateConfidence": "low",
-        "estimateAccepted": false,
+        "estimateAccepted": true,
         "workorderId": null,
         "runId": null,
         "archivedAt": "2026-02-21T11:18:53.816Z",
         "archivedReason": "estimate_generated",
         "createdAt": "2026-02-21T11:17:01.163Z",
-        "updatedAt": "2026-02-21T11:18:53.817Z"
+        "updatedAt": "2026-02-21T11:19:18.530Z"
       },
       {
         "sessionId": "e69f00c5-0ae2-488e-a7a0-32e150f41762",
